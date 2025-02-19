@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there, I'm Gautham Madhavankutty! 👋
 
-<!--
-**gthm17/gthm17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a Computer Science and Engineering student at APJ Abdul Kalam Technological University, passionate about **software development**, **full-stack development**, and **problem-solving**. I have a strong foundation in **Java, C, and C++**, and I'm continuously working on improving my expertise in **data structures, algorithms, and system design**.
 
-Here are some ideas to get you started:
+## 💻 Technical Skills
+- **Programming:** Java, C, C++  
+- **Web Development:** HTML, CSS  
+- **Backend:** Java Spring Boot (learning)  
+- **Database:** Learning DBMS concepts  
+- **Other:** Version Control (Git), Debugging, Cross-Platform Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Current Focus
+- **Mastering Full-Stack Development** with Java Spring Boot  
+- **Enhancing DSA skills** for competitive programming  
+- **Building projects** to apply my knowledge
+
+## 📂 Projects
+- **Portfolio Website** - A professional personal website showcasing my skills and projects.
+- **Poco C11 Web Page** - A static webpage dedicated to the Poco C11 smartphone.
+- **Personalized Webpage for My Girlfriend** - A fun and interactive webpage.
+
+## 📫 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/gthm)  
+📧 Email: gauthamponnani@gmail.com  
+📍 Kerala, India
+
+## 📊 GitHub Stats
+![Gautham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gauthammadhavankutty&show_icons=true&theme=radical)
+
+### Thanks for stopping by! 😊
