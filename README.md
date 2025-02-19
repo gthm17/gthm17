@@ -25,7 +25,5 @@ I'm a Computer Science and Engineering student at APJ Abdul Kalam Technological 
 📧 Email: gauthamponnani@gmail.com  
 📍 Kerala, India
 
-## 📊 GitHub Stats
-![Gautham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gauthammadhavankutty&show_icons=true&theme=radical)
 
 ### Thanks for stopping by! 😊
