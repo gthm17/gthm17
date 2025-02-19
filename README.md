@@ -15,10 +15,6 @@ I'm a Computer Science and Engineering student at APJ Abdul Kalam Technological 
 - **Enhancing DSA skills** for competitive programming  
 - **Building projects** to apply my knowledge
 
-## 📂 Projects
-- **Portfolio Website** - A professional personal website showcasing my skills and projects.
-- **Poco C11 Web Page** - A static webpage dedicated to the Poco C11 smartphone.
-- **Personalized Webpage for My Girlfriend** - A fun and interactive webpage.
 
 ## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/gthm)  
